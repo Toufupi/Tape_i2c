@@ -5,10 +5,12 @@ this is a repo contain tape i2c softeare and hardware design.
 
 this i a the article I read[Tapei2c-hackday](https://hackaday.com/2021/05/03/i2c-paper-tape-reader-is-not-what-you-think/)
 
+original maker might be @shapoco who is  also a famous pixiv painter
+
 And I did not find any actuall design for this project so I create this repo
 
 # About the tape i2c project
----
+
 
 ## introduction
 Just as the name of this repo, this project is going to use a paper tape to drive a i2c device. just like those old computer use paper with hole to get input command.
